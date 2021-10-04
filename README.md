@@ -1,0 +1,1 @@
+Buildah ile image oluşturma , repository'e gönderme ve  repository'den image indirip çalıştırma işlemleri yapılmaktadır. 
